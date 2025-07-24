@@ -1,0 +1,8 @@
+BreaKHis_v1/
+*.h5
+*.pt
+*.ckpt
+*.csv
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
